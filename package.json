@@ -1,0 +1,20 @@
+{
+  "name": "dummy-dom",
+  "version": "1.0.0",
+  "description": "dom library",
+  "homepage": "https://github.com/mpho-shabalala/dummy-dom#readme",
+  "bugs": {
+    "url": "https://github.com/mpho-shabalala/dummy-dom/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpho-shabalala/dummy-dom.git"
+  },
+  "license": "ISC",
+  "author": "mpho-given-shabalala",
+  "type": "commonjs",
+  "main": "UIComponents.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
