@@ -104,6 +104,4 @@ Contributions are welcome!
 4. Push to your branch: `git push origin feature-name`
 5. Submit a pull request
 
----
 
-Let me know if you'd prefer a more "developer toolkit" or "UI framework" tone, or if you'd like to add a logo, badges, or CI setup.
